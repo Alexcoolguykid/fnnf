@@ -1,4 +1,4 @@
-import funkin.play.character.SparrowCharacter;
+import funkin.play.character.MultiSparrowCharacter;
 import funkin.play.PlayState;
 import flixel.FlxG;
 import flixel.FlxSprite;
@@ -10,7 +10,7 @@ import funkin.modding.base.ScriptedFlxSpriteGroup;
 import funkin.graphics.adobeanimate.FlxAtlasSprite;
 import funkin.audio.visualize.ABotVis;
 
-class NeneCharacter extends SparrowCharacter {
+class NeneCharacter extends MultiSparrowCharacter {
 	function new() {
 		super('nene');
 	}
