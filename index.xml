@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<base href="https://cdn.jsdelivr.net/gh/genizy/fridayfunk/">
+	<base href="https://cdn.jsdelivr.net/gh/Alexcoolguykid/fnnf@main/">
 	<meta charset="utf-8">
 	
 	<title>Friday Night Funkin'</title>
@@ -13,10 +13,10 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	
 	
-	<link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/genizy/fridayfunk/favicon.png">
+	<link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/Alexcoolguykid/fnf@main/favicon.png">
 	
 	
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/fridayfunk/Funkin.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Alexcoolguykid/fnf@main/Funkin.js"></script>
 	
 	<script>
 		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
